@@ -1,0 +1,3 @@
+# dpd.js for Appcelerator Titanium
+
+This is a Titanium JavaScript module that lets a Titanium app communicate with a (deployd)[http://www.deployd.com] backend. 
